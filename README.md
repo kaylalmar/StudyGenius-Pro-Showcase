@@ -4,7 +4,7 @@
 
 ## Overview
 
-The StudyGenius Pro is an AI application that aims to address the UN Sustainable Development Goals of Quality Education, specifically targeting studying resources for all educational levels regardless of financial background.
+The StudyGenius Pro is an innovative AI application designed to generate interactive study materials and resources. It specifically aims to address the United Nations Sustainable Development Goals (SDGS) of Quality Education by providing accessible and effective studying resources for students of all educational levels, regardless of their financial background. 
 
 ## Study GenuisPro: What is it?
 
