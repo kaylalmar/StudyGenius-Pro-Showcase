@@ -13,7 +13,7 @@ StudyGenius Pro is an AI-powered study companion designed to elevate your academ
 
 ## Why StudyGenius Pro? 
 
-Study GeniusPro offers various features to aid students across all education levels. It was developed to address educational disparities faced by students across regions in Silicon Valley. There is a direct correlation between a student's location and their academic performance, primarily due to the funding for public schools. Our team focused on addressing this issue by targeting the United Nation's Sustainable Development Goal number four: Quality Education. StudyGenius Pro ains to bridge this gap by providing underpriviledged students with readily available resources. 
+Study GeniusPro offers various features to aid students across all education levels. It was developed to address educational disparities faced by students across regions in Silicon Valley. There is a direct correlation between a student's location and their academic performance, primarily due to the funding for public schools. Our team focused on addressing this issue by targeting the United Nation's Sustainable Development Goal number four: Quality Education. StudyGenius Pro aims to bridge this gap by providing underpriviledged students with readily available resources. 
 ## Our Solution
 A cutting-edge application leveraging AI technology to generate interactive study materials and resources, enhancing the efficiency and effectiveness of students' learning experiences. Through out AI-powered platform, we strive to create a more equitable educational landscape, ensuring that all students, regardless of their finanical background, have the tools they need to succeed academically. 
 
