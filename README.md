@@ -1,5 +1,6 @@
 # StudyGenius-Pro-Showcase
-![imaget](logo.png)
+![logo](https://github.com/kaylalmar/StudyGenius-Pro-Showcase/assets/165320991/e6182010-26ec-4bea-a264-aa36a057fecf)
+
 
 ## Overview
 
